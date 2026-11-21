@@ -7,6 +7,12 @@ I am currently working on:
 - [Madden AI GM](https://github.com/coderman77777/Madden-AI-GM)
 - [Misc. Sports Stats](https://github.com/coderman77777/Misc-Sports-Stats)
 
+# 🎬 YouTube Videos
+
+## [Madden AI GM](https://github.com/coderman77777/Madden-AI-GM)
+
+[![building an ai general manager](https://youtu.be/UuoKjlL5lpY?si=nDpoS4sgLva1PgF1)](https://youtu.be/UuoKjlL5lpY?si=nDpoS4sgLva1PgF1)
+
 
 ## ⬜ Stream Activity Graph (November 2026)
 *Legend: 🟩 Streamed | ⬜ Missed / Off | 🟨 Double Stream*
