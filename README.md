@@ -11,7 +11,8 @@ I am currently working on:
 
 ## [Madden AI GM](https://github.com/coderman77777/Madden-AI-GM)
 
-[![building an ai general manager](https://youtu.be/UuoKjlL5lpY?si=nDpoS4sgLva1PgF1)](https://youtu.be/UuoKjlL5lpY?si=nDpoS4sgLva1PgF1)
+[![building an ai general manager](https://youtube.com)](https://youtu.be/UuoKjlL5lpY?si=nDpoS4sgLva1PgF1)
+
 
 
 ## ⬜ Stream Activity Graph (November 2026)
