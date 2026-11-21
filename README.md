@@ -11,9 +11,7 @@ I am currently working on:
 
 ## [Madden AI GM](https://github.com)
 
-<a href="https://youtu.be/UuoKjlL5lpY?si=nDpoS4sgLva1PgF1">
-  <img src="https://ytimg.com" alt="building an ai general manager" width="320">
-</a>
+[![building an ai general manager](https://img.youtube.com/vi/UuoKjlL5lpY/hqdefault.jpg)](https://youtu.be/UuoKjlL5lpY)
 
 
 
