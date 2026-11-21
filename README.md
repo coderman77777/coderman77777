@@ -9,9 +9,12 @@ I am currently working on:
 
 # 🎬 YouTube Videos
 
-## [Madden AI GM](https://github.com/coderman77777/Madden-AI-GM)
+## [Madden AI GM](https://github.com)
 
-[![building an ai general manager](https://youtube.com)](https://youtu.be/UuoKjlL5lpY?si=nDpoS4sgLva1PgF1)
+<a href="https://youtu.be">
+  <img src="https://ytimg.com" alt="building an ai general manager" width="320">
+</a>
+
 
 
 
