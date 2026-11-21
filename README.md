@@ -8,6 +8,18 @@ I am currently working on:
 - [Misc. Sports Stats](https://github.com/coderman77777/Misc-Sports-Stats)
 
 
+## ⬜ Stream Activity Graph (November 2026)
+*Legend: 🟩 Streamed | ⬜ Missed / Off | 🟨 Double Stream*
+
+| | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Wk 1** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| **Wk 2** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| **Wk 3** | ⬜ | ⬜ | 🟩 | 🟩 | 🟩 | ⬜ | ⬜ |
+| **Wk 4** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| **Wk 5** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+
 # Coding Live Stream VODS
 
 ## [Madden AI GM](https://github.com/coderman77777/Madden-AI-GM)
